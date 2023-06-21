@@ -11,6 +11,8 @@ While I found there were many availble repositories on Github to review, this in
 Likewise, I used this video as a guidepost as I reconstructed the code from my sources:
 https://www.youtube.com/watch?v=v2jfGo7ztm8
 
+Lastly, I leveraged a tutor to review the assignment one last time and discuss if I was on the right track with my approach to learning how to complete these assignmetns.
+
 
 ## User Story
 AS AN employee with access to sensitive data
