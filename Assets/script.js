@@ -25,7 +25,7 @@ function writePassword() { // I need to define the generatePassword function.
       } 
     }
 
-//Here's where I need to add the function.
+//The function to generate password.
 function generatePassword () {
     var password = "";
     for (var i = 0; i < characterLength; i++) {
@@ -35,6 +35,7 @@ function generatePassword () {
     return password;
 }
 
+//Prompt 
 function getPrompts(){
     choiceArray = [];
 
